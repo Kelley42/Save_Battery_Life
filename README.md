@@ -23,6 +23,8 @@ Go back to Settings and scroll down to Display. Here, you can dim the display of
 - Scroll down to go to Screen timeout. Select a lower time, such as 30 seconds, so the display will turn off sooner.
 - Back in Display, scroll down to the bottom and go to Screen saver. Make sure None is selected.
 
+<img src="images/adv_feat_samsung.jpg" alt="Advanced features"/>
+
 ## Lock screen
 Go back to Settings and scroll down to Lock screen. Here, you can control what your screen shows when it’s locked.
 - Toggle Always On Display to off. Alternatively, press the Always On Display heading to customize the display. If you only want to display information sometimes, toggle it On and choose Tap to show so the display will only show when you want it to.
