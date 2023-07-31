@@ -32,9 +32,11 @@ Go back to Settings and scroll down to Location. Here, you can control which app
 - Go to Location services. Earthquake alerts, Emergency Location Service, and Google Location Accuracy should read On, while Google Location History and Google Location Sharing should read Tap to manage.
 - Toggle off both Wi-Fi scanning and Bluetooth scanning. The more your phone is constantly scanning for nearby devices, the more battery it will use.
 
-## Advanced Features
-Go back to Settings and scroll down to Advanced Features.
+## Advanced features
+Go back to Settings and scroll down to Advanced features.
 - Go to Motions and gestures. Toggle off Lift to wake and Keep screen on while viewing.
+
+Logo: ![Advanced features](/images/advanced_features_samsung.png)
 
 ## Battery and device care
 Go back to Settings and scroll down to Battery and device care. 
