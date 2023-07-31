@@ -1,5 +1,6 @@
 # Tips to extend battery life on Android phone
 ### Using Samsung Galaxy S10e model
+---
 
 
 Knowing how to squeeze every last drop out of your phone may save you when your battery is at 5% and you need to make an important phone call. But it’s also good to keep these settings on all the time to prevent constantly having to find somewhere to charge your phone throughout the day.
