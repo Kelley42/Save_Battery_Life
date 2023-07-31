@@ -36,7 +36,7 @@ Go back to Settings and scroll down to Location. Here, you can control which app
 Go back to Settings and scroll down to Advanced features.
 - Go to Motions and gestures. Toggle off Lift to wake and Keep screen on while viewing.
 
-<img src="./images/advanced_features_samsung.png" alt="Advanced features"/>
+<img src="images/advanced_features_samsung.png" alt="Advanced features"/>
 
 ## Battery and device care
 Go back to Settings and scroll down to Battery and device care. 
