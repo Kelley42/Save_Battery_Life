@@ -41,6 +41,7 @@ Go back to Settings and scroll down to Advanced features.
 - Go to Motions and gestures. Toggle off Lift to wake and Keep screen on while viewing.
 
 ![Advanced features](images/Save_Battery_Life/AdvFeatSamsung.jpg)
+
 <img src="images/Save_Battery_Life/AdvFeatSamsung.jpg" alt="Advanced features"/>
 
 ## Battery and device care
