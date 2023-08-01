@@ -47,19 +47,19 @@ Go back to Settings and scroll down to Display. Here, you can dim the display of
 
  <img src="images/Save_Battery_Life_images2/turn_onas_scheduled_samsung.jpg" width=180 alt="Turn on as scheduled"/>
 
-- Slide the Brightness slider to lower the brightness and save battery. 
+- Back in Display, slide the Brightness slider to lower the brightness and save battery. 
 
 <img src="images/Save_Battery_Life_images/brightness_samsung.jpg" width=180 alt="Adjust brightness"/>
 
-You can also do this from the shortcut, found by sliding down twice from the top of the display.
+You can also do this from the shortcut, found by sliding down twice from the top of the display from any screen.
 
 <img src="images/Save_Battery_Life_images2/brightness_shortcut_samsung.jpg" width=180 alt="Adjust brightness shortcut"/>
 
-- Scroll down to go to Screen timeout. 
+- In Display, scroll down to go to Screen timeout. 
 
 <img src="images/Save_Battery_Life_images2/screen_timeout_samsung.jpg" width=180 alt="Screen timeout"/>
 
-Select a lower time, such as 30 seconds, so the display will turn off sooner.
+Select a short amount of time, such as 30 seconds, so the display will turn off sooner.
 
 <img src="images/Save_Battery_Life_images2/display_timer_samsung.jpg" width=180 alt="Set screen timeout"/>
 
