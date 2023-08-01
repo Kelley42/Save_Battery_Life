@@ -3,7 +3,6 @@
 ---
 
 
-<img src="cauliflowerrice.jpeg" alt="Advanced features"/>
 
 Knowing how to squeeze every last drop out of your phone may save you when your battery is at 5% and you need to make an important phone call. But it’s also good to keep these settings on all the time to prevent constantly having to find somewhere to charge your phone throughout the day.
 
@@ -25,7 +24,6 @@ Go back to Settings and scroll down to Display. Here, you can dim the display of
 - Scroll down to go to Screen timeout. Select a lower time, such as 30 seconds, so the display will turn off sooner.
 - Back in Display, scroll down to the bottom and go to Screen saver. Make sure None is selected.
 
-<img src="images/brightness_samsung.jpg" alt="Adjust brightness"/>
 
 ## Lock screen
 Go back to Settings and scroll down to Lock screen. Here, you can control what your screen shows when it’s locked.
@@ -40,9 +38,9 @@ Go back to Settings and scroll down to Location. Here, you can control which app
 Go back to Settings and scroll down to Advanced features.
 - Go to Motions and gestures. Toggle off Lift to wake and Keep screen on while viewing.
 
-![Advanced features](images/Save_Battery_Life/AdvFeatSamsung.jpg)
+![Advanced features](images/Save_Battery_Life_images/advanced_features_samsung.jpg)
 
-<img src="images/Save_Battery_Life/AdvFeatSamsung.jpg" alt="Advanced features"/>
+<img src="images/Save_Battery_Life_images/advanced_features_samsung.jpg" width=300 alt="Advanced features"/>
 
 ## Battery and device care
 Go back to Settings and scroll down to Battery and device care. 
