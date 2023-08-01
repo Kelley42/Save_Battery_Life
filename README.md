@@ -3,7 +3,7 @@
 ---
 
 
-<img src="dog.jpg" alt="Advanced features"/>
+<img src="cauliflowerrice.jpeg" alt="Advanced features"/>
 
 Knowing how to squeeze every last drop out of your phone may save you when your battery is at 5% and you need to make an important phone call. But it’s also good to keep these settings on all the time to prevent constantly having to find somewhere to charge your phone throughout the day.
 
