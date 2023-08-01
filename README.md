@@ -23,7 +23,7 @@ Go back to Settings and scroll down to Display. Here, you can dim the display of
 - Scroll down to go to Screen timeout. Select a lower time, such as 30 seconds, so the display will turn off sooner.
 - Back in Display, scroll down to the bottom and go to Screen saver. Make sure None is selected.
 
-<img src="brightness_samsung.jpg" alt="Adjust brightness"/>
+<img src="images/brightness_samsung.jpg" alt="Adjust brightness"/>
 
 ## Lock screen
 Go back to Settings and scroll down to Lock screen. Here, you can control what your screen shows when it’s locked.
@@ -38,8 +38,8 @@ Go back to Settings and scroll down to Location. Here, you can control which app
 Go back to Settings and scroll down to Advanced features.
 - Go to Motions and gestures. Toggle off Lift to wake and Keep screen on while viewing.
 
-![Advanced features](./images/adv_feat_samsung.jpg)
-<img src="./images/adv_feat_samsung.jpg" alt="Advanced features"/>
+![Advanced features](images/AdvFeatSamsung.jpg)
+<img src="images/AdvFeatSamsung.jpg" alt="Advanced features"/>
 
 ## Battery and device care
 Go back to Settings and scroll down to Battery and device care. 
