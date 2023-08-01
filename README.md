@@ -28,10 +28,12 @@ Go to Connections. Here, you can change how your phone uses data and how it conn
 
 Make sure Default Print Service is toggled off.
 
-<img src="images/Save_Battery_Life_images/default_print_service_samsung.jpg" width=180 alt="Toggle off Default Print Service"/>
+<img src="images/Save_Battery_Life_images2/default_print_service_samsung.jpg" width=180 alt="Toggle off Default Print Service"/>
 
 ## Display
-Go back to Settings and scroll down to Display. Here, you can dim the display of your phone. //////////
+Go back to Settings and scroll down to Display. Here, you can dim the display of your phone.
+
+<img src="images/Save_Battery_Life_images2/display_samsung.jpg" width=180 alt="Display"/>
 
 - Selecting Dark mode will help save battery.
 
@@ -72,7 +74,7 @@ Make sure None is selected.
 ## Lock screen
 Go back to Settings and scroll down to Lock screen. Here, you can control what your screen shows when it’s locked.
 
-<img src="images/Save_Battery_Life_images2/lock_screen_samsung.jpg" width=180 alt="Lock screen"/>
+<img src="images/Save_Battery_Life_images/lock_screen_samsung.jpg" width=180 alt="Lock screen"/>
 
 - Toggle Always On Display to off. 
 
@@ -83,10 +85,13 @@ Alternatively, press the Always On Display heading to customize the display. If 
 <img src="images/Save_Battery_Life_images2/tap_to_show_samsung.jpg" width=180 alt="Choose Tap to show"/>
 
 ## Location
-Go back to Settings and scroll down to Location. Here, you can control which apps know your location. ////////
-- Go to Location services. ////////
+Go back to Settings and scroll down to Location. Here, you can control which apps know your location. 
 
-<img src="images/Save_Battery_Life_images/location_services_samsung.jpg" width=180 alt="Location services"/>
+<img src="images/Save_Battery_Life_images2/location_samsung.jpg" width=180 alt="Location"/>
+
+- Go to Location services.
+
+<img src="images/Save_Battery_Life_images2/location_services_samsung.jpg" width=180 alt="Location services"/>
 
 Earthquake alerts, Emergency Location Service, and Google Location Accuracy should read On, while Google Location History and Google Location Sharing should read Tap to manage.
 
@@ -110,7 +115,10 @@ Toggle off Lift to wake and Keep screen on while viewing.
 <img src="images/Save_Battery_Life_images2/lift_to_wake_samsung.jpg" width=180 alt="Toggle off Lift to wake and Keep screen on while viewing"/>
 
 ## Battery and device care
-Go back to Settings and scroll down to Battery and device care. //////
+Go back to Settings and scroll down to Battery and device care. 
+
+<img src="images/Save_Battery_Life_images2/battery_device_care_samsung.jpg" width=180 alt="Battery and device care"/>
+
 - Go to Battery, which shows a detailed graph of your usage from your last charge.
 
 <img src="images/Save_Battery_Life_images2/great_battery_samsung.jpg" width=180 alt="Select battery"/>
@@ -124,7 +132,10 @@ Go back to Settings and scroll down to Battery and device care. //////
 <img src="images/Save_Battery_Life_images2/adaptive_battery_samsung.jpg" width=180 alt="Adaptive battery, charging, and protect battery"/>
 
 ## Apps
-Go back to Settings and scroll down to Apps. ///////
+Go back to Settings and scroll down to Apps. 
+
+<img src="images/Save_Battery_Life_images2/apps_samsung.jpg" width=180 alt="Apps"/>
+
 - Press the 3 dots in the top right corner to go to Special access. 
 
 <img src="images/Save_Battery_Life_images2/apps_dots_samsung.jpg" width=180 alt="Apps three dots"/>
